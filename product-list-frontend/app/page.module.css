@@ -1,0 +1,10 @@
+.containerWithMargin {
+  margin-top: 90px;
+}
+.searchForm {
+  display: flex;
+  justify-content: center;
+  margin: 40px auto;
+  gap: 10px;
+  text-align: center;
+}
